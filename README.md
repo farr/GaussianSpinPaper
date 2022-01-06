@@ -20,6 +20,8 @@ Building on [Callister, et al.
 various models for the distribution of black hole spin vectors in GWTC-3 and
 discuss what they might imply about the evolution of these systems.
 
+Companion repository [here](https://git.ligo.org/will-farr/gaussianspin) with computations.
+
 This document was prepared with 
 <p align="center">
 <a href="https://github.com/rodluger/showyourwork">
