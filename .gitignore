@@ -10,3 +10,6 @@ dag.pdf
 
 # VSCode
 .vscode
+
+# Mac Crap
+.DS_Store
